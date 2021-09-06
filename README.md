@@ -1,23 +1,25 @@
 # data-structures-algorithms-curated-resources
 
-A curated list of awesome places to learn and/or practice algorithms.
+A curated list of awesome places to learn and/or practice algorithms, wheeee! :) 
 
-- [Awesome Algorithms](#awesome-algorithms)
+I was able to find all these resources by scouring the web and forking multiple GitHub repos and websites where super advanced programmers (thank you so much, pros, you peeps are awesome!) guide us newbies into the field of DSA! 
+
+<!-- - [Awesome Algorithms](#awesome-algorithms)
     - [Websites](#websites)
     - [Online Courses](#online-courses)
     - [Books](#books)
     - [Cheat Sheets](#cheat-sheets)
     - [Github Libraries](#github-libraries)
-    - [Online Judges](#online-judges)
-    - [Tools](#tools)
+    - [Competitive Programming Things](#competitive-programming)
+    - [Fun Stuff](#fun-stuff) -->
 
-## Websites
+## Useful Websites
 
-*Websites you should use to learn classic algorithms*
+*Websites we could look at to learn classic algorithms!*
 
-* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
+* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work.
 * [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
-* [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef
+* [CodeChef](https://www.codechef.com/LEARNDSA/) - Learning DSA by practice on Codechef.
 * [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 * [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
@@ -32,14 +34,14 @@ A curated list of awesome places to learn and/or practice algorithms.
 * [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained.
 * [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 * [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
-* [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
-* [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not ?!!
+* [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!
+* [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - and why not?!!
 * [Learnersbucket](https://learnersbucket.com/) - Tutorials on data sturctures and algorithms in Javascript.
-* [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
+* [redblobgames](https://www.redblobgames.com/) - Interactive visual explanations of math and algorithms, using motivating examples from computer games.
 
-## Online Courses
+## Very Kewl Online Courses
 
-*Free and High Quality Courses Online*
+*Really noice free and high quality courses online!*
 
 * [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
 * [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - The primary topics are: data structures, graph primitives, and their applications.
@@ -47,24 +49,23 @@ A curated list of awesome places to learn and/or practice algorithms.
 * [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) - This course covers the essential information that every serious programmer needs to know about algorithms and data structures.Part I covers elementary data structures, sorting, and searching algorithms. 
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
-* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministred by Tomas Cormen and Devin Balkcom.
+* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course by Tomas Cormen and Devin Balkcom.
 * [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) - Well explained algorithms.
 * [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Similar to the previous one, but with different algorithms.
 * [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well explained introduction to algorithms.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
-* [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
-* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well explained vidoes on various computer science subjects.~~ _Account terminated due to violations of Youtube Policies._
+* [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms.
 
-## Books
+## Interesting Books
 
-*The most highly regarded books to learn algorithms*
+*The really highly regarded books to learn and master algorithms!*
 
 ### Algorithms and Data structures
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
 * [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - by  George T. Heineman.
-* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -This great book presents dozens of coding challenges, ranging from simple tasks to clustering data using k-means.
+* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) - This great book presents dozens of coding challenges, ranging from simple tasks to clustering data using k-means.
 * [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - A great way to implement algorithms with their specific programmable tasks.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
@@ -87,7 +88,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 - [Motwani & Raghavan. Randomized Algorithms](https://www.amazon.com/Randomized-Algorithms-Rajeev-Motwani/dp/0521474655) - A standard classic book.
 - [Mitzenmacher & Upfal. Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis](https://www.amazon.com/Probability-Computing-Randomization-Probabilistic-Techniques-ebook/dp/B06X9YBMFK) - Standard text for probability methods and their applications on randomized algorithms.
 
-## Cheat Sheets
+## Cheat Sheets (Noicee!)
 * [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 * [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
 * [CLRS in short](https://sinon.org/algorithms//#data-structures)
@@ -95,9 +96,9 @@ A curated list of awesome places to learn and/or practice algorithms.
 * [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 * [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
 
-## Github Libraries
+## Github Libraries for Sample Code
 
-*Implementations of the most classic algorithms in a wide variety of programming languages*
+*Implementations of the most classic algorithms in loads of programming languages! Yes, it is a jackpot! :)*
 
 * C
     * [by @fragglet](https://github.com/fragglet/c-algorithms)
@@ -166,9 +167,9 @@ A curated list of awesome places to learn and/or practice algorithms.
     * [by @patmorin](https://github.com/patmorin/ods)
     * [by @btjanaka](https://github.com/btjanaka/algorithm-problems)
 
-## Online Judges
+## Competitive Programming Things
 
-*Online Judges to practice what you learned above*
+*Competitive programming websites and/or online judges to help us practice what we learned through all the resources above!*
 
 * [A2 Online Judge](https://a2oj.com/) - Online Judge and problem archive.
 * [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
@@ -178,20 +179,20 @@ A curated list of awesome places to learn and/or practice algorithms.
 * [Baekjoon Online Judge](https://www.acmicpc.net/) - Korean Online Judge. 10000+ problems. Supports 60+ languages.
 * [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
 * [CodeChef](https://www.codechef.com/) - More problems and monthly online contests.
-* [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
-* [Codefights](https://codefights.com/) - Practive programming and tackle out your next tech interview
+* [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform.
+* [Codefights](https://codefights.com/) - Practive programming and tackle out your next tech interview.
 * [CodeMarshal](https://algo.codemarshal.org/) - Real world contests online!
 * [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
 * [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
 * [Firecode](https://www.firecode.io/) - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
 * [Coding Blocks](https://hack.codingblocks.com/app/) - Website that have problems based on Maths, Data Structures, Various Algorithm and also conducts Coding Competition.
 * [HackerEarth ](https://www.hackerearth.com/) - Practice alogrithmic problems & challenges and participate in hiring challenges.
-* [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
+* [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges.
 * [HiHoCoder](http://hihocoder.com/) - Chinese and English problem solving practice and recruitment challenge site.
-* [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
+* [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems.
 * [Interviewbit](https://www.interviewbit.com/) - Learn, practice and prepare for interviews.
-* [Kattis](https://open.kattis.com/)- Online judge and problem archive
-* [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
+* [Kattis](https://open.kattis.com/)- Online judge and problem archive.
+* [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge (Half English). 1300+ problems.
 * [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
 * [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
 * [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
@@ -204,11 +205,11 @@ A curated list of awesome places to learn and/or practice algorithms.
 * [Toph](https://toph.co/) - Bangladeshi Online Judge. Holds online contests on a regular basis.
 * [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so much problems, but it's growing and it has online contests.
 * [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals and others).
-* [Codility](https://app.codility.com/programmers/challenges/) - Compete to land coding jobs at top companies
+* [Codility](https://app.codility.com/programmers/challenges/) - Compete to land coding jobs at top companies.
 
-## Blogs
+## Blogs and written stuff
 
-*Awesome list of blogs, mainly for competitive programming but you can refer to these when learning a new topic/algorithm*
+*Here's an awesome list of blogs (they're primarily for competitive programming though but you can always refer to them when you're learning a new topic/algorithm).*
 
 * [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
 * [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
@@ -216,14 +217,10 @@ A curated list of awesome places to learn and/or practice algorithms.
 * [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - For getting deeper knowledge of algorithms and how to think in right direction.
 * [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve. 
 
-## Tools
+## Fun Stuff
 
-*Some tools that can help you in the learning of algorithms*
+*Some fun stuff that can help you in your journey of learning algorithms!*
 
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
-
-## Related Awesome Lists
-- [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
-- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathemtical technique and rigour.
 
  
